@@ -24,6 +24,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 **Non-Technical Skills**
 > The Various non-technical skills that I pride myself on and their everyday application.
 >> 1 being the lowest usage and 10 being the most frequently used skill.
+
 | Skill | Usage (1 - 10) | Application |
 |:--------|:--------:|-------:|
 | Customer Service | Usage: 8 | Providing effective frontline technical support to users while ensuring a positive experience |
