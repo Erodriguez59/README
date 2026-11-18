@@ -14,5 +14,34 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 </details>
 
 **Who am I?** 
-> ERIK RODRIGUEZ
+> Erik Rodriguez
 >> Software Developer | IT Professional
+
+**About Me Section**
+> IT Consultant | Helpdesk Analyst
+>> Interested in Software Engineering, Cloud Computing, and Data Analyst
+
+**Technical Skills**
+> Languages:
+> Java
+> JavaScript
+> C++
+> HTML/CSS
+
+**Technologies**
+> Git/Github
+> JavaFX
+> Node.js
+> Linux
+> AWS (Working on it atm)
+
+**FEATURED PROJECTS**
+> The Rodriguez Project
+> Net Worth Tracker
+> ULTIMA 2.0
+> Minecraft Discord Support Bot
+
+**CURRENTLY WORKING ON**
+> Full-stack development
+> Cloud integration
+> Software engineering projects
