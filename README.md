@@ -57,7 +57,13 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
     <li>Minecraft Discord Support Bot</li>
   </ul>
 </details>
-     
+
+| Project | Language | Status |
+|:--------|:--------:|-------:|
+| The Rodriguez Project | HTML/CSS | WIP |
+| ULTIMA 2.0 | C++ | Complete |
+| Net Worth Tracker | Java | Complete |
+
 **CURRENTLY WORKING ON**
 <details>
   <summary><b>Concepts/Technical Skills I am Working on</b></summary>
