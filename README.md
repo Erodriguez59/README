@@ -3,4 +3,5 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 
 # THE VERY PROFESSIONAL LAYOUT 
 **Apologies I am still learning to be a professional looking person, but I *LOVE* my hoodies AND cute hats**
+
 ERIK RODRIGUEZ
