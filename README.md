@@ -34,7 +34,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 
 ### **Technical Skills & Technologies**
 > We go over just a few of the technical skills, tools, frameworks & platforms I've utilized in my workplace & degree.
->> Let's help make this list grow TOGETHER!
+>> Let's help make this list grow TOGETHER! :eyes:
 <details>
   <summary><b>Languages</b></summary>
 
