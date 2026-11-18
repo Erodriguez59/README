@@ -63,6 +63,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 | The Rodriguez Project | HTML/CSS | WIP |
 | ULTIMA 2.0 | C++ | Complete |
 | Net Worth Tracker | Java | Complete |
+| Minecraft Discord Support Bot | JavaScript | Active |
 
 **CURRENTLY WORKING ON**
 <details>
