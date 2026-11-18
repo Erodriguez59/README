@@ -43,6 +43,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
     <li>JavaScript</li>
     <li>C++</li>
     <li>HTML/CSS</li>
+    <li>Python</li>
   </ul>
 </details>
 
