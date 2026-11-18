@@ -54,6 +54,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
     <li>Node.js</li>
     <li>Linux</li>
     <li>AWS **Working on it atm VERY SLOWLY**</li>
+    <li>ServiceNow</li>
   </ul>
 </details>
 
