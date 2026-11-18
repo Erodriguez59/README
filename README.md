@@ -22,11 +22,16 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 >> Interested in Software Engineering, Cloud Computing, and Data Analyst
 
 **Technical Skills**
-> Languages:
-> Java
-> JavaScript
-> C++
-> HTML/CSS
+<details>
+  <summary><b>Languages</b></summary>
+
+  <ul>
+    <li>Java</li>
+    <li>JavaScript</li>
+    <li>C++</li>
+    <li>HTML/CSS</li>
+  </ul>
+</details>
 
 **Technologies**
 > Git/Github
