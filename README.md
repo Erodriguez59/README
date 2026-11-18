@@ -28,7 +28,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 | <div align="center"> Skill | Usage (1 - 10) | <div align="center"> Application |
 |:--------|:--------:|-------:|
 | Customer Service | Usage: 8 | Providing effective frontline technical support to users while ensuring a positive experience |
-| Teamwork & Collaboration | Usage: 6 | Working alongside other IT professionals & adjacent departments to troubleshoot technical issues, share knowledge and ensure efficient IT operations| 
+| Teamwork & Collaboration | Usage: 6 | <div align="center"> Working alongside other IT professionals & adjacent departments to troubleshoot technical issues, share knowledge and ensure efficient IT operations| 
 
 **Technical Skills**
 <details>
