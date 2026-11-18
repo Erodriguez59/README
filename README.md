@@ -42,14 +42,21 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
     <li>JavaFX</li>
     <li>Node.js</li>
     <li>Linux</li>
-    <li>AWS **Working on it atm**</li>
+    <li>AWS **Working on it atm VERY SLOWLY**</li>
   </ul>
 </details>
+
 **FEATURED PROJECTS**
-> The Rodriguez Project
-> Net Worth Tracker
-> ULTIMA 2.0
-> Minecraft Discord Support Bot
+<details>
+ <summary><b>Projects I Am Proud Of</b></summary>
+
+ <u1>
+     <li>The Rodriguez Project</li>
+     <li>Net Worth Tracker</li>
+     <li>ULTIMA 2.0</li>
+     <li>Minecraft Discord Support Bot</li>
+ </u1>
+</details>
 
 **CURRENTLY WORKING ON**
 > Full-stack development
