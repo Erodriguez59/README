@@ -34,12 +34,17 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 </details>
 
 **Technologies**
-> Git/Github
-> JavaFX
-> Node.js
-> Linux
-> AWS (Working on it atm)
+<details>
+  <summary><b>Tools, Frameworks, Platforms</b></summary>
 
+  <ul>
+    <li>Git/Github</li>
+    <li>JavaFX</li>
+    <li>Node.js</li>
+    <li>Linux</li>
+    <li>AWS **Working on it atm**</li>
+  </ul>
+</details>
 **FEATURED PROJECTS**
 > The Rodriguez Project
 > Net Worth Tracker
