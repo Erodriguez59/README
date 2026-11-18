@@ -51,10 +51,10 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
  <summary><b>Projects I Am Proud Of</b></summary>
 
  <u1>
-     <li>The Rodriguez Project</li>
-     <li>Net Worth Tracker</li>
-     <li>ULTIMA 2.0</li>
-     <li>Minecraft Discord Support Bot</li>
+    <li>The Rodriguez Project</li>
+    <li>Net Worth Tracker</li>
+    <li>ULTIMA 2.0</li>
+    <li>Minecraft Discord Support Bot</li>
  </u1>
 </details>
 
