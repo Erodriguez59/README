@@ -57,7 +57,14 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
     <li>Minecraft Discord Support Bot</li>
   </ul>
 </details>
+     
 **CURRENTLY WORKING ON**
-> Full-stack development
-> Cloud integration
-> Software engineering projects
+<details>
+  <summary><b>Concepts/Technical Skills I am Working on</b></summary>
+
+  <ul>
+    <li>Full-stack development</li>
+    <li>Cloud integration</li>
+    <li>Software engineering projects</li>
+  </ul>
+</details>
