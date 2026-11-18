@@ -13,11 +13,11 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
  </p>
 </details>
 
-**Who am I?** 
+### **Who am I?** 
 > Erik Rodriguez
 >> Software Developer | IT Professional
 
-**About Me Section**
+### **About Me Section**
 > IT Consultant | Helpdesk Analyst
 >> Interested in Software Engineering, Cloud Computing, and Data Analyst
 
