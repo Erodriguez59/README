@@ -9,6 +9,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 <details>
  <summary>Wanna see the cute hat in question?</summary>
  ![Project Banner](Cutehatfile!.jpg)
+ <img src="Cutehatfile!.jpg" alt="Project Banner" width="500">
 </details>
 
 ERIK RODRIGUEZ
