@@ -59,7 +59,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
   </ul>
 </details>
 
-### **FEATURED PROJECTS**
+### ** :rocket: FEATURED PROJECTS**
 <details>
   <summary><b>Projects I Am Proud Of</b></summary>
 
