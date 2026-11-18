@@ -78,7 +78,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 | Net Worth Tracker | Java | Complete |
 | Minecraft Discord Support Bot | JavaScript | Active |
 
-### **CURRENTLY WORKING ON**
+### **:construction:CURRENTLY WORKING ON:construction:**
 <details>
   <summary><b>Concepts/Technical Skills I am Working on</b></summary>
 
