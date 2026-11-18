@@ -32,7 +32,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 | Documentation & Attention to Detail | Usage: 9 | <div align="center"> The ability to accurately record & organize technical information from troubleshooting procedures, system configurations & resolutions all within our ticketing system. |
 | Problem-Solving & Critical Thinking | Usage: 7 | <div align="center"> Analyzing technical issues, identifying their underlying causes, and evaluating solutions to provide effective and reliable IT support. |
 
-### **Technical Skills**
+### **Technical Skills & Technologies**
 <details>
   <summary><b>Languages</b></summary>
 
@@ -44,7 +44,6 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
   </ul>
 </details>
 
-### **Technologies**
 <details>
   <summary><b>Tools, Frameworks, Platforms</b></summary>
 
