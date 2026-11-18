@@ -13,5 +13,5 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
  </p>
 </details>
 
-ERIK RODRIGUEZ
+**ERIK RODRIGUEZ**
 > Software Developer | IT Professional
