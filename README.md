@@ -21,7 +21,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 > IT Consultant | Helpdesk Analyst
 >> Interested in Software Engineering, Cloud Computing, and Data Analyst
 
-**Non-Technical Skills**
+### **Non-Technical Skills**
 > The Various non-technical skills that I pride myself on and their everyday application.
 >> 1 being the lowest usage and 10 being the most frequently used skill.
 
@@ -32,7 +32,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 | Documentation & Attention to Detail | Usage: 9 | <div align="center"> The ability to accurately record & organize technical information from troubleshooting procedures, system configurations & resolutions all within our ticketing system. |
 | Problem-Solving & Critical Thinking | Usage: 7 | <div align="center"> Analyzing technical issues, identifying their underlying causes, and evaluating solutions to provide effective and reliable IT support. |
 
-**Technical Skills**
+### **Technical Skills**
 <details>
   <summary><b>Languages</b></summary>
 
@@ -44,7 +44,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
   </ul>
 </details>
 
-**Technologies**
+### **Technologies**
 <details>
   <summary><b>Tools, Frameworks, Platforms</b></summary>
 
@@ -58,7 +58,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
   </ul>
 </details>
 
-**FEATURED PROJECTS**
+### **FEATURED PROJECTS**
 <details>
   <summary><b>Projects I Am Proud Of</b></summary>
 
@@ -77,7 +77,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 | Net Worth Tracker | Java | Complete |
 | Minecraft Discord Support Bot | JavaScript | Active |
 
-**CURRENTLY WORKING ON**
+### **CURRENTLY WORKING ON**
 <details>
   <summary><b>Concepts/Technical Skills I am Working on</b></summary>
 
