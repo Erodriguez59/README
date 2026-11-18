@@ -13,15 +13,15 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
  </p>
 </details>
 
-### **Who am I?** 
+### **:penguin:Who am I?:penguin:** 
 > Erik Rodriguez
 >> Software Developer :computer: | IT Professional :bug:
 
-### **About Me Section**
+### **:wave:About Me Section:wave:**
 > IT Consultant | Helpdesk Analyst
 >> Interested in Software Engineering, Cloud Computing, and Data Analyst
 
-### **Non-Technical Skills**
+### **:busts_in_silhouette:Non-Technical Skills:busts_in_silhouette:**
 > The various non-technical skills that I pride myself on and their everyday application.
 >> 1 being the lowest usage and 10 being the most frequently used skill.
 
@@ -32,7 +32,7 @@ Hey! I'm Erik Rodriguez, a Computer Science student at IU South Bend and an IT C
 | Documentation & Attention to Detail | Usage: 9 | <div align="center"> The ability to accurately record & organize technical information from troubleshooting procedures, system configurations & resolutions all within our ticketing system. |
 | Problem-Solving & Critical Thinking | Usage: 7 | <div align="center"> Analyzing technical issues, identifying their underlying causes, and evaluating solutions to provide effective and reliable IT support. |
 
-### **Technical Skills & Technologies**
+### **:computer:Technical Skills & Technologies:computer:**
 > We go over just a few of the technical skills, tools, frameworks & platforms I've utilized in my workplace & degree.
 >> Let's help make this list grow TOGETHER! :eyes:
 <details>
